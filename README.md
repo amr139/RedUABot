@@ -11,3 +11,7 @@ La primera vez que lo ejecutes te pedira *usuario* y *contraseña* para generar 
 # He introducido mal los datos de la sesión
 
 Simplemente borra el fichero que encontraras dentro de la carpeta de `REDUA` con la extensión `.session` y vuelve a ejecutar la aplicación.
+
+# Ejemplo
+
+![working](bot.gif)
